@@ -1,0 +1,34 @@
+p{
+    /* color name*/
+    /*color: palevioletred;*/
+
+    /* color hexadecimal code */
+    /* color: #4d92c4; */
+
+    /* color rgb value */
+    color: rgb(45, 25, 155); 
+}
+
+h1{
+    color: blueviolet;
+}
+
+#one{
+    color: yellowgreen; 
+}
+
+.Firstpara{
+    color: brown;
+}
+
+.Secondpara{
+    color: mediumblue;
+}
+
+.lastname{
+    color: peru;
+}
+
+.paraEmphasis{
+    color: darkgreen;
+}
