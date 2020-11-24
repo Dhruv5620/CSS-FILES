@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Website</title>
+    <!--Internal styling-->
+    <style>
+        h1{
+            color:blueviolet;
+        }
+        h2{
+            color:coral;
+        }
+    </style>
+</head>
+<body>
+     <h1>This is my website2</h1>
+       <!--Inline Styling-->
+     <p style="color: red;">
+         Lorem ipsum dolor sit amet consectetur adipisicing elit. Itaque sed sit molestias atque officia minima odio dolores quidem! Praesentium veritatis provident quas, aperiam quidem necessitatibus repudiandae velit voluptatum. Quisquam, sunt!
+     </p>
+     <h2>This is my another heading</h2>
+     <p>
+         Lorem ipsum dolor sit amet consectetur adipisicing elit. Itaque sed sit molestias atque officia minima odio dolores quidem! Praesentium veritatis provident quas, aperiam quidem necessitatibus repudiandae velit voluptatum. Quisquam, sunt!
+     </p>
+    
+</body>
+</html>
